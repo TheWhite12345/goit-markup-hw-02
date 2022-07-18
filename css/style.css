@@ -1,0 +1,187 @@
+body {
+font-family: "Roboto", "Raleway", sans-serif;
+font-size: 14px;
+text-decoration: none; 
+}
+
+:root {
+  color: #212121;
+  color: #757575; 
+  color: #FFFFFF;
+}
+
+.position {
+background-color: #FFFFFF; ;
+}
+.sonik {
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 14px;
+line-height: 1.1;  
+text-decoration: none; 
+}
+
+.blue {
+color: rgba(33, 33, 33, 1);
+}
+
+.red {
+color: rgba(117, 117, 117, 1);
+;
+}
+
+.sonik:hover,
+.sonik:focus {
+color: rgba(33, 150, 243, 1);
+}
+
+.safe{
+font-family: 'Roboto';
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7;
+color: rgba(255, 255, 255, 0.6); 
+text-decoration: none; 
+}
+
+.alert {
+font-family: 'Roboto';
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7;
+color: #FFFFFF;
+
+} 
+
+.safe:hover,
+.safe:focus {
+  color: #2196F3;
+}
+
+.call {
+background-color: rgba(245, 244, 250, 1);
+color:rgba(33, 33, 33, 1);
+font-family: 'Roboto';
+font-weight: 700;
+font-size: 16px;
+line-height: 1.8;
+}
+
+.call:hover,
+.call:focus {
+background: rgba(33, 150, 243, 1);
+color: rgba(255, 255, 255, 1);
+;
+}
+
+.call {
+cursor: pointer; 
+}
+
+.isak {
+font-family: 'Roboto';
+font-weight: 700;
+font-size: 14px;
+line-height: 1.1;
+color: #212121;
+}
+
+.teacher{
+font-family: 'Roboto';
+font-weight: 400;
+font-size: 14px;
+line-height: 1.7;
+color: #757575; 
+}
+
+.name {
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 16px;
+line-height: 1.1;
+color: #212121;
+}
+
+.profesion {
+font-family: 'Roboto';
+font-weight: 400;
+font-size: 16px;
+line-height: 1.1;
+color: #757575;  
+}
+
+.oppo {
+font-family: 'Roboto';
+font-weight: 900;
+font-size: 44px;
+line-height: 1.3;
+color: rgba(255, 255, 255, 1);
+background: #2F303A;
+}
+
+.max {
+background: #2F303A;
+}
+
+.mading {
+font-family: 'Roboto';
+font-weight: 700;
+font-size: 36px;
+line-height: 1.1;
+color: #212121;
+}
+
+.shooter {
+font-family: 'Roboto';
+font-weight: 700;
+font-size: 36px;
+line-height: 1.1;
+color: #212121;
+background: #F5F4FA;
+}
+
+.loft {
+font-family: 'Roboto';
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+color: #212121;
+}
+
+.javellin {
+font-family: 'Roboto';
+font-weight: 400;
+font-size: 16px;
+line-height: 1.8;
+color: #757575;
+}
+
+.popitbox {
+background-color: #2F303A;; 
+}
+ul {
+  list-style : none;
+}
+
+.noize {
+linear-gradient(0deg, #2196F3, #2196F3);
+font-family: 'Raleway';
+font-weight: 700;
+font-size: 26px;
+line-height: 1.1;
+color: #2196F3;
+} 
+.bizon {
+  background: rgba(33, 150, 243, 1);
+  color: rgba(255, 255, 255, 1);
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.8;
+  }
+  
+  .bizon:hover,
+  .bizon:focus 
+  .bizon {
+  cursor: pointer; 
+   }
